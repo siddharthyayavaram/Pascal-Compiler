@@ -1,5 +1,0 @@
-i,a,b,c:type=Integer
-d,e,f:type=Real
-begin
-var:i=[ArithmeticExpression[T[F[number_literal:{10}]][T1]][A1]][ForLoop[for:{for}]var:i][asmt_op:{:=}][ArithmeticExpression[T[F[number_literal:{1}]][T1]][A1]][E[To:{to}]][ArithmeticExpression[T[F[number_literal:{5}]][T1]][A1]][Do:{do}][Block[begin:{begin}][A[Bvar:i=[ArithmeticExpression[T[F[open_parenthesis:{(}][ArithmeticExpression[T[Fvar:a]][T1[PO[mul:{*}]][Fvar:b]][T1]]][A1]][close_parenthesis:)]][T1[PO[div:{/}]][Fvar:c]][T1]]][A1]]][end:{end}]]][SC:{;}]]
-end
