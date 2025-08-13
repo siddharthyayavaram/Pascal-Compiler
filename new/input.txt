@@ -1,0 +1,11 @@
+program Example9;
+var
+  i,a,b,c: Integer;
+  d,e ,f : Real;
+begin
+  i := 10;
+  for i := 1 to 5 do
+  begin
+    i := (a * b) / c;
+  end;
+end.

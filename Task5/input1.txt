@@ -1,0 +1,13 @@
+program ReverseNumber;
+var
+  a,b,c: Integer;
+begin
+
+  a := 5;
+
+  if 2 <= a/2 then
+    begin
+      write("hi");
+    end;
+
+end.

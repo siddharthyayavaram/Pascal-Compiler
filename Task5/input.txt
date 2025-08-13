@@ -1,0 +1,9 @@
+program ArrayAverage;
+var
+  a,b,c: Integer;
+
+begin
+  a := 1;
+  write(a);
+
+end.

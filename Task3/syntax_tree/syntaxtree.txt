@@ -1,0 +1,1 @@
+[sentence[P[prog:{program}][var:{Example9}][SC:{;}]][V[var:{var}][LS[L[LHS[var:{i}][H]][Colon:{:}][RHS[type:{Real}]][SC:{;}]][O]]][M[begin:{begin}][J[B[S[I[var:{i}][G]][asmt_op:{:=}][Expression[ArithmeticExpression[T[F[real_literal:{10.500000}]][T1]][A1]]][SC:{;}]][K]][end:{end}][stop:{.}]]]]

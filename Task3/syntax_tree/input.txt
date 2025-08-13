@@ -1,0 +1,6 @@
+program Example9;
+var
+  i: Real;
+begin
+  i := 10.5;
+end.
